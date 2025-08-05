@@ -1,0 +1,22 @@
+# 主题信息
+name: "主题名称"
+version: "0.1.0"
+description: "主题描述"
+
+# 菜单配置
+menu:
+  首页: /
+  归档: /archives
+  关于: /about
+
+# 侧边栏设置
+sidebar: right  # left, right 或 false
+
+# 社交链接
+social:
+  GitHub: https://github.com/ZEC-dev
+
+# 主题颜色
+theme_color:
+  primary: "#3366ff"
+  secondary: "#ff6600"

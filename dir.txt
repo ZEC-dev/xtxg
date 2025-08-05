@@ -1,0 +1,18 @@
+my-theme/
+├── _config.yml       # 主题配置文件
+├── languages/        # 国际化语言文件
+├── layout/           # 布局模板文件
+│   ├── _partial/     # 局部模板
+│   ├── _widget/      # 小工具模板
+│   ├── archive.ejs   # 归档页模板
+│   ├── index.ejs     # 首页模板
+│   ├── layout.ejs    # 基础布局模板
+│   ├── post.ejs      # 文章页模板
+│   └── tag.ejs       # 标签页模板
+├── scripts/          # 脚本文件夹
+├── source/           # 资源文件夹
+│   ├── css/          # CSS 样式
+│   ├── fonts/        # 字体文件
+│   ├── images/       # 图片资源
+│   └── js/           # JavaScript 文件
+└── package.json      # 主题信息文件
